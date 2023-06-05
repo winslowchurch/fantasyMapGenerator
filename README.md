@@ -1,4 +1,4 @@
-# Fantasy Map Generator
+# Fantasy Map Generator 🗺️📍
 Generates fantasy maps with Processing 4.2
 
 Instructions
