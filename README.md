@@ -1,0 +1,2 @@
+# fantasyMapGenerator
+Generates fantasy maps
