@@ -8,4 +8,4 @@ Generates old-timey fantasy maps with Processing 4.2
 
 ![](https://github.com/winslowchurch/fantasyMapGenerator/blob/main/result.png)
 
-ᛏᚺᛁᛋ ᛁᛋ ᚨ ᛋᛖᚲᚱᛖᛏ ᛗᛖᛋᛋᚨᚷᛖ
+[ᛏᚺᛁᛋ ᛁᛋ ᚨ ᛋᛖᚲᚱᛖᛏ ᛗᛖᛋᛋᚨᚷᛖ]
