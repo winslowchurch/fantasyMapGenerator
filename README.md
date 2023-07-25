@@ -7,3 +7,5 @@ Generates old-timey fantasy maps with Processing 4.2
 - To get a new map, rerun the program 
 
 ![](https://github.com/winslowchurch/fantasyMapGenerator/blob/main/result.png)
+
+ᛏᚺᛁᛋ ᛁᛋ ᚨ ᛋᛖᚲᚱᛖᛏ ᛗᛖᛋᛋᚨᚷᛖ
